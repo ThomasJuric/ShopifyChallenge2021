@@ -1,3 +1,2 @@
-"# shopifyChallenge2021" 
 # shopifyChallenge2021
-"# ShopifyChallenge2021" 
+## Run this with python3! 
